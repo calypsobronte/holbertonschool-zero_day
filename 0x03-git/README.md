@@ -1,5 +1,5 @@
 # 0x03-git
-Learning how to use git.
+Learning how to use git
 
 # More Info
 ## Install git
