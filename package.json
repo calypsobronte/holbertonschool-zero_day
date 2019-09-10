@@ -1,0 +1,26 @@
+{
+  "name": "holbertonschool-zero_day",
+  "version": "1.0.0",
+  "description": "Holberton zero day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calypsobronte/holbertonschool-zero_day.git"
+  },
+  "keywords": [
+    "holberton",
+    "git",
+    "github",
+    "student",
+    "dev"
+  ],
+  "author": "Lina María Montaño Ramírez - Calypso Bronte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calypsobronte/holbertonschool-zero_day/issues"
+  },
+  "homepage": "https://github.com/calypsobronte/holbertonschool-zero_day#readme"
+}
